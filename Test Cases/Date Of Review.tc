@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Date Of Review</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0f29bd5-4c20-4c2d-84e8-d9dd08064afd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b1cb451c-87ee-408a-919b-19f862d18cc6</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After Checker 1' s approval check same request showing in list popup or not</description>
+   <name>CHK1 Approval WD List Chk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4aafcc88-5771-4e57-a043-b05215a8fd6f</testCaseGuid>
+</TestCaseEntity>

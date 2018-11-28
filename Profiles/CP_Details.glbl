@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>CP_Details</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Siddhika'</initValue>
+      <name>MKUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'tJrv5JzdMgJS+E3YB3qLdQ=='</initValue>
+      <name>MKPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ankita'</initValue>
+      <name>CK1Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0su8JPdqOrtdMpZY9tcdMw=='</initValue>
+      <name>CK1Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ashavini'</initValue>
+      <name>CK2Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'HgYW5rTyICd068gsXDIB7Q=='</initValue>
+      <name>CK2Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AIDNI FO KNAB'</initValue>
+      <name>CPName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://siachen:8003/AXIS_LERM_WEB_UAT_V4/login.aspx'</initValue>
+      <name>Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>45</initValue>
+      <name>G_Timeout_Small</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

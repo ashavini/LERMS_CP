@@ -1,0 +1,40 @@
+1
+00:00:00,709 --> 00:00:00,714
+1. setText
+
+2
+00:00:05,132 --> 00:00:05,136
+5. setEncryptedText
+
+3
+00:00:08,555 --> 00:00:08,556
+9. click
+
+4
+00:00:12,233 --> 00:00:12,237
+13. acceptAlert
+
+5
+00:00:14,282 --> 00:00:14,289
+17. delay
+
+6
+00:00:16,327 --> 00:00:16,327
+21. click
+
+7
+00:00:18,634 --> 00:00:18,637
+25. delay
+
+8
+00:00:20,657 --> 00:00:20,661
+29. switchToWindowIndex
+
+9
+00:00:22,798 --> 00:00:22,805
+33. delay
+
+10
+00:00:24,829 --> 00:00:24,837
+37. Statement - com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.maximizeWindow() * com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.delay(2)
+
